@@ -13,7 +13,7 @@ The algorithms are described in the following papers:
 > In: Algorithmic Foundations of Robotics XIV. Oulu, Finland, pp. 534–550.
 
 
-The algorithms are implemented in C++ and executed on a desktop computer with an Intel Core i9-7980XE processor. The ILP formulation is executed using Gurobi (https://www.gurobi.com/). The implementation can be found in the following GitHub repository:  
+The algorithms are implemented in C++ and executed on a desktop computer with an Intel Core i9-7980XE processor. The ILP formulation is solved using [Gurobi](https://www.gurobi.com/) and run on a cluster node with 48 cores. The implementation can be found in the following GitHub repository:  
 https://github.com/UNCCharlotte-CS-Robotics/LineCoverage-library
 
 Description of columns of the file SRLCresults50cities.csv is given below.
