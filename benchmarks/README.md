@@ -4,7 +4,7 @@ The file SRLCresults50cities.csv contains computation times and coverage tour co
 
 The algorithms are described in the following papers:
 
-> The Single Robot Line Coverage Problem: Theory, Algorithms and Experiments
+> The Single Robot Line Coverage Problem: Theory, Algorithms and Experiments  
 > Agarwal S and Akella S (2020)  
 > In: arXiv preprint arXiv:2208.09861 (2022).
 
