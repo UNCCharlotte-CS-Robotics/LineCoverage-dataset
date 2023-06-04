@@ -1,5 +1,7 @@
 # LineCoverage-dataset
-Dataset for Line Coverage Problem
+- `most_pop_50cities`: Road networks from 50 most populous cities in the world. Each network spans an area of about 1km x 1km.
+- `most_pop_50cities_large`: Large road networks from 50 most populous cities in the world. Each network spans an area of 3km x 3km.
+- `icra20_dataset`: Road network dataset for the ICRA2020 paper.
 
 | Map       | No. of Edges | No. of Clusters | Area<br />(sq. km) | Network<br />Length (km) |
 | --------- | :----------: | :-------------: | :----------------: | :----------------------: |
@@ -11,7 +13,7 @@ Dataset for Line Coverage Problem
 | Charlotte |     4658     |       10        |       16.00        |          116.27          |
 
 # Contact
-Saurav Agarwal: sagarw10[at]uncc.edu
+Saurav Agarwal: sagarw10[at]uncc.edu, agr.saurav1[at]gmail.com
 
 # License
 You are free to use the dataset for your work. We request that the following work be cited.
